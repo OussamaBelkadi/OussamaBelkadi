@@ -1,14 +1,18 @@
-<h1 align="center">Hey 👋What's Up? My Name is Oussama Belkadi</h1>
+<h1 align="left">Hey 👋What's Up? My Name is Oussama Belkadi</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="center">Full-Stack Java  Developer |  Consultant</h2>
+<h2 align="left">Full-Stack Java  Developer |  Consultant</h2>
 
 ###
 
 <p align="left">✨ Creating bugs since 2018 (and learning from every one)<br>📚 Currently exploring AI, Data Analytics, and Machine Learning<br>🎯 Goal: Empower individuals and organizations to work smarter—not harder—through AI and digital solutions</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
